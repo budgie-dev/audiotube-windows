@@ -1,5 +1,4 @@
-Depends on: FFmpeg, Tkinter, yt-dlp
-
-Download yt-dlp from https://github.com/yt-dlp/yt-dlp and throw the .exe file into the audiotube-windows folder.
+Depends on: Tkinter
+FFmpeg and yt-dlp binary added for convienience, if you dont trust me download from source.
 
 Double click start.cmd to start
